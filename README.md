@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orenpajela.
-- 👀 I’m interested in full-time or contract positions in design/product.
-- 🌱 I’m currently learning how to use Javascript to enhance digital experiencees.
-- 💞️ I’m looking to collaborate on UI/UX projects.
+- 👀 I’m a UI/UX Engineer who works with SaaS companies to help them iterate a design system to help their development teams build better and faster.
+- 🌱 I’m currently learning how to leverage AI to craft awesome digital experiences from scratch.
+- 💞️ I’m looking to collaborate on design and product related projects.
 - 📫 How to reach me: orenpajela@gmail.com
 
 
